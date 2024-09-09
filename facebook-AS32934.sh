@@ -1,5 +1,6 @@
 #apt update && apt install gobgpd -y
-#chmod +x facebook.sh
+#chmod +x facebook
+#mv facebook /usr/bin
 
 #!/bin/bash
 
